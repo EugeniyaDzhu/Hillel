@@ -1,4 +1,4 @@
-package com.hillel;
+package com.pimaua.homework;
 
 public class Main {
     public static void main(String[] args) {
