@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello Java");
         System.out.println("Hello EugeniyaDzhu");
         System.out.println("Hello Java Pro");
+        System.out.println("I hate git...");
     }
 }
